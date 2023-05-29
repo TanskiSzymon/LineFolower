@@ -5,3 +5,5 @@
 ![Screenshot_26](https://github.com/TanskiSzymon/LineFolower/assets/108231030/51cd14de-0b3f-43fa-94fa-5ac8e8a2fe5e)
 ![Screenshot_1](https://github.com/TanskiSzymon/LineFolower/assets/108231030/072432b9-7b4a-4774-8f41-9e81b74d0c39)
 ![Screenshot_7](https://github.com/TanskiSzymon/LineFolower/assets/108231030/e6b863d3-280a-41bf-9bbe-5c352115e9e7)
+[IMG_2222](https://github.com/TanskiSzymon/LineFolower/assets/108231030/2a4e5b97-f0e7-4e2c-b54f-cfee8a037bc0)
+![IPZ Pojazd_bb](https://github.com/TanskiSzymon/LineFolower/assets/108231030/482626a0-ec9b-4e51-be2b-abadf2b55fd2)
