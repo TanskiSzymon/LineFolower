@@ -1,10 +1,14 @@
 # LineFolower
 Remote-controlled version available, autonomous driving coming soon.
+
+Watch the video to see vehicle in action
+
 <p align="center">
   <a href="https://www.youtube.com/watch?v=52OadkTGyIU">
      <img src="https://img.youtube.com/vi/52OadkTGyIU/0.jpg" alt="Watch the video.">
   </a>
 </p>
+
 ![IMG_2222](https://github.com/TanskiSzymon/LineFolower/assets/108231030/ece28fa1-5f0e-44d0-83fc-b52e5ac545f3)
 ![IPZ Pojazd_bb](https://github.com/TanskiSzymon/LineFolower/assets/108231030/412d987c-7722-44cf-9bdf-265b93bc3a4d)
 ![IPZ Pojazd_schem](https://github.com/TanskiSzymon/LineFolower/assets/108231030/adf11865-3717-4a23-99f8-8f74e4aefa81)
