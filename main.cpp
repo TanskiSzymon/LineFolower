@@ -59,12 +59,10 @@ void setup_wifi() {
         ESP.restart(); //restart ESP after 10 seconds
     }
   }
-
   Serial.println("");
   Serial.println("WiFi connected");
   Serial.println("IP address: ");
   Serial.println(WiFi.localIP());
-  
 }
 
 void connect_mqttServer() {
@@ -250,19 +248,6 @@ void loop() {
     analogWrite(RBMotorPWM, 0);
     connect_mqttServer();
   }
-  //int SensorL = analogRead(lineSensorL);
-  //int SensorM = analogRead(lineSensorM);
-  //int SensorR = analogRead(lineSensorR);
-
-  //Serial.println("Left:");
-  //Serial.println(SensorL);
-
-  //Serial.println("MID:");
-  //Serial.println(SensorM);
-
-  //Serial.println("Right:");
-  //Serial.println(SensorR);
-  //delay(500); 
   
   client.loop();
   delay(50); 
